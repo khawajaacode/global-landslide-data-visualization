@@ -1,3 +1,4 @@
+
 # Global Landslides Analysis Project
 
 This project analyzes a comprehensive dataset of global landslide events, providing visualizations and insights into landslide occurrences and fatalities worldwide. The analysis includes data processing, database management, and interactive visualizations.
@@ -120,16 +121,10 @@ With this data,the countries most affected by landslide accidents will be compar
 * after running events_line_chart.py, a "events_line_chart.js" file will be created and would be used to visualize data with the help of D3.js library.
 * run the "events_line_chart.htm" to visualize data
 ### Sources
-Here’s your updated Markdown with the **Python for Everybody Specialization and Specification links removed**:
+[Global Landslide Data](https://data.nasa.gov/Earth-Science/Global-Landslide-Data-Export-Visual-Explorer/angv-aquq)
 
-```md
-### Sources
-[Global Landslide Data](https://data.nasa.gov/Earth-Science/Global-Landslide-Data-Export-Visual-Explorer/angv-aquq "NASA's Global Landslide Data Explorer")
+[NASA's Open Data Portal](https://data.nasa.gov/)
 
-[NASA's Open Data Portal](https://data.nasa.gov/ "Access NASA's full open data portal")
+[Coursera](https://www.coursera.org/)
 
-[Coursera](https://www.coursera.org/ "Explore courses on Coursera")
-
-[Capstone Project Certificate](https://www.coursera.org/share/68c8c9c5b22d91891d48bd34780c7557 "Verify my Python for Everybody Capstone Project Certificate")
-```
-
+[Capstone Project Certificate](https://www.coursera.org/share/68c8c9c5b22d91891d48bd34780c7557)
