@@ -1,9 +1,5 @@
 # Global Landslides Analysis Project
 
-An interactive data visualization project analyzing NASA's Global Landslide Catalog (GLC) to identify patterns in worldwide landslide events, their impacts, and geographical distribution.
-
-# Global Landslides Analysis Project
-
 This project analyzes a comprehensive dataset of global landslide events, providing visualizations and insights into landslide occurrences and fatalities worldwide. The analysis includes data processing, database management, and interactive visualizations.
 
 ## Features
@@ -124,15 +120,16 @@ With this data,the countries most affected by landslide accidents will be compar
 * after running events_line_chart.py, a "events_line_chart.js" file will be created and would be used to visualize data with the help of D3.js library.
 * run the "events_line_chart.htm" to visualize data
 ### Sources
-[Global Landslide Data ][PlDa]
+Here’s your updated Markdown with the **Python for Everybody Specialization and Specification links removed**:
 
-[NASA's Open Data Portal][PlDb]
+```md
+### Sources
+[Global Landslide Data](https://data.nasa.gov/Earth-Science/Global-Landslide-Data-Export-Visual-Explorer/angv-aquq "NASA's Global Landslide Data Explorer")
 
-[Coursera][PlDc]
+[NASA's Open Data Portal](https://data.nasa.gov/ "Access NASA's full open data portal")
 
-[Python for Everybody specialization][PlDd]
+[Coursera](https://www.coursera.org/ "Explore courses on Coursera")
 
-[PlDa]: <https://data.nasa.gov/Earth-Science/Global-Landslide-Data-Export-Visual-Explorer/angv-aquq>
-[PlDb]: <https://nasa.github.io/data-nasa-gov-frontpage/>
-[PlDc]: <https://https://www.coursera.org/>
-[PlDd]: <https://www.coursera.org/programs/e3f17f0d-dfae-4b16-8880-584e171069bc?collectionId=&productId=F-h1g0w7EeWeOApO_l5R1w&productType=s12n&showMiniModal=true>
+[Capstone Project Certificate](https://www.coursera.org/share/68c8c9c5b22d91891d48bd34780c7557 "Verify my Python for Everybody Capstone Project Certificate")
+```
+
